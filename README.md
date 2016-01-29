@@ -39,3 +39,5 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/daily_deal' title='DailyDeal'>DailyDeal</a> on Learn.co and start learning to code for free.</p>
